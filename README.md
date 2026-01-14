@@ -1,29 +1,124 @@
-<h1 align="center">Hi 👋, I'm Sai Santhosh V C</h1>
-<h3 align="center">A passionate Student, Data Enthusiast from USA</h3>
+<!--
+GitHub Profile README — Landing Page Only
+Paste into: https://github.com/sai-santhosh/sai-santhosh/blob/main/README.md
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="sai-santhosh" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-santhosh" alt="sai-santhosh" /></a> </p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sai%20Santhosh%20V%20C&fontAlign=50&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20LLM%20Systems&descAlign=50&descAlignY=62"
+  alt="header"
+/>
 
-- 🔭 I’m currently working on [EzSplit](https://huggingface.co/spaces/santu24/EzSplit)
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=700&center=true&vCenter=true&width=980&lines=MCS+%40+Rice+University+(Data+Science+%26+ML);Data+Scientist+Intern+%E2%80%94+Affinius+Capital+(Global+Quantitative+Research);Building+production-grade+data+products%2C+ML+pipelines%2C+and+LLM%2FRAG+systems"
+  alt="typing"
+/>
 
-- 🌱 I’m currently learning **MLOps, Retrieval-Augmented-Generation (RAG), Generative AI**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://huggingface.co/santu24](https://huggingface.co/santu24)
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing**
-
-- 📫 How to reach me **saisanthoshvc@rice.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/v-c-sai-santhosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/v-c-sai-santhosh/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vcsaisanthosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vcsaisanthosh" height="30" width="40" /></a>
+<p>
+  <a href="mailto:saisanthoshvc@rice.edu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saisanthoshvc%40rice.edu-111111?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/v-c-sai-santhosh/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-v--c--sai--santhosh-111111?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://scholar.google.com/citations?user=lA0FC_kAAAAJ&hl=en">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-lA0FC__kAAAAJ-111111?style=for-the-badge&logo=googlescholar">
+  </a>
+  <a href="https://huggingface.co/santu24">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-santu24-111111?style=for-the-badge&logo=huggingface">
+  </a>
+  <a href="https://www.kaggle.com/vcsaisanthosh">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-vcsaisanthosh-111111?style=for-the-badge&logo=kaggle">
+  </a>
+  <a href="https://github.com/sai-santhosh?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/sai-santhosh?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/sai-santhosh?label=Stars&style=flat&color=0e75b6" alt="stars"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-santhosh&show_icons=true&locale=en&layout=compact" alt="sai-santhosh" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-santhosh&show_icons=true&locale=en" alt="sai-santhosh" /></p>
+---
+
+## About
+
+I’m **Sai Santhosh V C**, currently pursuing an **MCS at Rice University** (Data Science & Machine Learning) and working as a **Data Scientist Intern** at **Affinius Capital** (Global Quantitative Research).
+
+My interests sit at the intersection of **data engineering**, **applied ML**, and **LLM systems**—shipping end-to-end solutions across ingestion/ETL, modeling, and reliable deployment.
+
+---
+
+## Focus Areas
+
+- **Data Products & Analytics Engineering**: ETL/ELT, data modeling, dbt-style transformation, monitoring, and quality
+- **Machine Learning**: supervised learning, ranking/recommendation, experimentation, model evaluation
+- **LLM Systems**: retrieval (RAG), NLQ-to-SQL, embeddings, evaluation, latency/cost tradeoffs
+- **Production Engineering**: APIs/microservices, orchestration, CI-friendly workflows, observability
+
+---
+
+## Tech Stack (Core)
+
+**Languages:** Python, SQL, C++  
+**Data:** PySpark, Pandas, Airflow, dbt, MLflow  
+**Cloud:** AWS (S3, Glue, Redshift, ECS Fargate, Lambda, DynamoDB), Azure Databricks/ADX  
+**ML/LLM:** scikit-learn, PyTorch, LangChain, embeddings/FAISS  
+**Infra:** Docker, Git
+
+---
+
+## Profiles
+
+- LinkedIn: https://www.linkedin.com/in/v-c-sai-santhosh/
+- Google Scholar: https://scholar.google.com/citations?user=lA0FC_kAAAAJ&hl=en
+- Hugging Face: https://huggingface.co/santu24
+- Kaggle: https://www.kaggle.com/vcsaisanthosh
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=sai-santhosh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-santhosh&layout=compact&hide_border=true"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=sai-santhosh&hide_border=true"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sai-santhosh&no-frame=true&row=1&column=6"
+/>
+
+</div>
+
+---
+
+## Contact
+
+- Email: **saisanthoshvc@rice.edu**
+
+<!-- Optional (uncomment if you want it visible)
+#### Open to
+- 2026 full-time roles in Data Science / Data Engineering / ML Engineering (US)
+-->
