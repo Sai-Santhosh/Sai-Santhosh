@@ -1,191 +1,29 @@
-<!--
-Sai Santhosh V C — GitHub Profile Landing Page
-Repo: https://github.com/sai-santhosh/sai-santhosh
--->
+<h1 align="center">Hi 👋, I'm Sai Santhosh V C</h1>
+<h3 align="center">A passionate Student, Data Enthusiast from USA</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="sai-santhosh" /> </p>
 
-<!-- HERO BANNER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sai%20Santhosh%20V%20C&fontAlign=50&fontAlignY=38&desc=MCS%20%40%20Rice%20University%20%7C%20Data%20Science%20%26%20ML%20%7C%20LLM%20Systems&descAlign=50&descAlignY=64"
-/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-santhosh" alt="sai-santhosh" /></a> </p>
 
-<!-- TYPING -->
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2800&pause=700&center=true&vCenter=true&width=980&lines=Data+Science+%7C+Data+Engineering+%7C+LLM+Systems;AWS+%2B+Azure+pipelines%2C+ML+services%2C+RAG+retrieval;Production-first%3A+quality%2C+monitoring%2C+reliability%2C+scale"
-/>
+- 🔭 I’m currently working on [EzSplit](https://huggingface.co/spaces/santu24/EzSplit)
 
-<br/>
+- 🌱 I’m currently learning **MLOps, Retrieval-Augmented-Generation (RAG), Generative AI**
 
-<!-- QUICK LINKS -->
-<p>
-  <a href="mailto:saisanthoshvc@rice.edu"><img src="https://img.shields.io/badge/Email-saisanthoshvc%40rice.edu-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/v-c-sai-santhosh/"><img src="https://img.shields.io/badge/LinkedIn-v--c--sai--santhosh-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=lA0FC_kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-111111?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://huggingface.co/santu24"><img src="https://img.shields.io/badge/Hugging%20Face-santu24-111111?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/vcsaisanthosh"><img src="https://img.shields.io/badge/Kaggle-vcsaisanthosh-111111?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://github.com/sai-santhosh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- 👨‍💻 All of my projects are available at [https://huggingface.co/santu24](https://huggingface.co/santu24)
 
-<!-- SMALL METRICS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/sai-santhosh?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/sai-santhosh?label=Stars&style=flat&color=0e75b6" />
-</p>
+- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing**
 
-</div>
+- 📫 How to reach me **saisanthoshvc@rice.edu**
 
----
-
-## Overview
-
-I’m **Sai Santhosh V C** — an **MCS student at Rice University** (Data Science & ML) and a **Data Scientist Intern** in **Global Quantitative Research** at **Affinius Capital**.
-
-I build **production-grade data products** and **ML/LLM systems** end-to-end: ingestion → transformation → modeling/retrieval → APIs → evaluation/monitoring.
-
----
-
-## What I Build (In Practice)
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Data Products</h3>
-      <ul>
-        <li>ETL/ELT pipelines, orchestration, data quality</li>
-        <li>Warehouse analytics with reliable models</li>
-        <li>Operational monitoring & debuggability</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>ML Systems</h3>
-      <ul>
-        <li>Supervised modeling, ranking & recommendations</li>
-        <li>Evaluation, drift checks, experiment tracking</li>
-        <li>Deployment-ready pipelines & services</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>LLM / Retrieval</h3>
-      <ul>
-        <li>RAG, embeddings, NLQ-to-SQL style systems</li>
-        <li>Latency/cost tradeoffs & retrieval quality</li>
-        <li>Practical LLM integration in products</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Toolbox (Official Logos)
-
-> Icons are served via Devicon/CDN (stable). If you want, you can later “self-host” icons in your repo for 100% reliability.
-
-### Languages
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/v-c-sai-santhosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/v-c-sai-santhosh/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/vcsaisanthosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vcsaisanthosh" height="30" width="40" /></a>
 </p>
 
-### Data Engineering / Orchestration
-<p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Cloud
-<p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-santhosh&show_icons=true&locale=en&layout=compact" alt="sai-santhosh" /></p>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20Glue%20%7C%20Redshift%20%7C%20ECS%20Fargate%20%7C%20Lambda%20%7C%20DynamoDB-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Azure-Databricks%20%7C%20ADX-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-### Backend / APIs
-<p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-</p>
-
-### ML / LLM
-<p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Stack-LangChain%20%7C%20Bedrock%20%7C%20Embeddings%20%7C%20FAISS-111111?style=for-the-badge" />
-</p>
-
-### Databases
-<p align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</p>
-
-### MLOps / Analytics Engineering
-<p>
-  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20dbt%20%7C%20Airflow-111111?style=for-the-badge" />
-</p>
-
----
-
-## Certification
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Data%20Scientist%20Associate-111111?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<!-- Add cache_seconds + v= to reduce failures & refresh when GitHub caches a broken response -->
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=sai-santhosh&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&v=5"
-  alt="stats"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-santhosh&layout=compact&hide_border=true&cache_seconds=86400&v=5"
-  alt="langs"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sai-santhosh&hide_border=true&area=true&custom_title=Contribution%20Graph&v=5"
-  alt="graph"
-/>
-
-</div>
-
----
-
-## Contribution Snake (Animated)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sai-santhosh/sai-santhosh/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
----
-
-## Contact
-
-- Email: **saisanthoshvc@rice.edu**
-- Scholar: https://scholar.google.com/citations?user=lA0FC_kAAAAJ&hl=en
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-santhosh&show_icons=true&locale=en" alt="sai-santhosh" /></p>
